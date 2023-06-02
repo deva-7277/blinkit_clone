@@ -180,7 +180,7 @@ header .container{
 }
 
 .items .list-items, .items-2 .list-items{
-    display: flex;
+    display: -webkit-inline-box;
     column-gap: 42px;
     justify-content: center;
     padding-left: 62%;
